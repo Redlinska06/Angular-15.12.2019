@@ -1,0 +1,17 @@
+.form {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input,
+textarea,
+button {
+  width: 250px;
+  height: 30px;
+  margin: 0;
+  box-sizing: border-box;
+}
